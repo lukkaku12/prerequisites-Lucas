@@ -96,8 +96,8 @@ El objetivo de este quiz es evaluar tus conocimientos previos sobre JavaScript a
    console.log(typeof null);
    ```
    - A) `null`
-   - B) `undefined` <---
-   - C) `object`
+   - B) `undefined` 
+   - C) `object` <---
    - D) `number`
 
 15. ¿Cuál de los siguientes métodos se usa para recorrer todos los elementos de un array?
@@ -120,13 +120,13 @@ El objetivo de este quiz es evaluar tus conocimientos previos sobre JavaScript a
 
 18. ¿Cuál es el propósito del método `Array.prototype.map()`?
    - A) Modificar el array original.
-   - B) Crear un nuevo array con los resultados de aplicar una función a cada elemento del array original.
+   - B) Crear un nuevo array con los resultados de aplicar una función a cada elemento del array original. <---
    - C) Filtrar los elementos de un array.
    - D) Encontrar un elemento en un array.
 
 19. ¿Qué es el `Event Loop` en JavaScript?
    - A) Un ciclo que controla las llamadas recursivas.
-   - B) Un proceso que permite a JavaScript realizar operaciones asincrónicas.
+   - B) Un proceso que permite a JavaScript realizar operaciones asincrónicas. <---
    - C) Un método para iterar sobre arrays.
    - D) Ninguna de las anteriores.
 
@@ -135,66 +135,66 @@ El objetivo de este quiz es evaluar tus conocimientos previos sobre JavaScript a
     console.log(0.1 + 0.2 === 0.3);
     ```
     - A) `true`
-    - B) `false`
+    - B) `false` <---
     - C) `undefined`
     - D) `NaN`
 
 21. ¿Qué se entiende por `strict mode` en JavaScript?
     - A) Un modo que permite utilizar características experimentales.
-    - B) Un modo que cambia la forma en que se ejecuta JavaScript, haciéndolo más seguro.
+    - B) Un modo que cambia la forma en que se ejecuta JavaScript, haciéndolo más seguro. <---
     - C) Un método para validar datos.
     - D) Ninguna de las anteriores.
 
 22. ¿Cuál de las siguientes es una forma correcta de crear un objeto en JavaScript?
-    - A) `let obj = {};`
+    - A) `let obj = {};` <---
     - B) `let obj = Object.create();`
     - C) `let obj = new Object();`
     - D) A y C son correctas.
 
 23. ¿Qué es un `callback` en JavaScript?
-    - A) Una función que se pasa como argumento a otra función.
+    - A) Una función que se pasa como argumento a otra función. <---
     - B) Un tipo de variable especial.
     - C) Un método para declarar funciones.
     - D) Ninguna de las anteriores.
 
 24. ¿Cuál es el propósito de `async` y `await` en JavaScript?
     - A) Ejecutar funciones síncronas.
-    - B) Manejar operaciones asincrónicas de manera más simple y legible.
+    - B) Manejar operaciones asincrónicas de manera más simple y legible. <----
     - C) Declarar variables globales.
     - D) Ninguna de las anteriores.
 
 25. ¿Cuál de las siguientes es una estructura de datos inmutable en JavaScript?
     - A) Arrays
     - B) Strings
-    - C) Objetos
+    - C) Objetos <---
     - D) Ninguna de las anteriores.
 
 26. ¿Cómo se puede convertir un objeto JSON en una cadena de texto en JavaScript?
-    - A) `JSON.parse()`
+    - A) `JSON.parse()` <---
     - B) `JSON.stringify()`
     - C) `toString()`
     - D) `parseInt()`
 
 27. ¿Qué es un `Promise` en JavaScript?
     - A) Una función que se ejecuta inmediatamente.
-    - B) Un objeto que representa la eventual finalización (o falla) de una operación asincrónica.
+    - B) Un objeto que representa la eventual finalización (o falla) de una operación asincrónica. <---
     - C) Un método para declarar variables.
     - D) Ninguna de las anteriores.
 
 28. ¿Qué método se utiliza para agregar uno o más elementos al principio de un array y devolver la nueva longitud del array?
     - A) `push()`
     - B) `pop()`
-    - C) `shift()`
+    - C) `shift()` <---
     - D) `unshift()`
 
 29. ¿Cuál es la diferencia entre `localStorage` y `sessionStorage` en JavaScript?
     - A) `localStorage` almacena datos solo durante la sesión del navegador, `sessionStorage` almacena datos de manera persistente.
-    - B) `sessionStorage` almacena datos solo durante la sesión del navegador, `localStorage` almacena datos de manera persistente.
+    - B) `sessionStorage` almacena datos solo durante la sesión del navegador, `localStorage` almacena datos de manera persistente. <---
     - C) No hay diferencia entre ellos.
     - D) Ambos almacenan datos solo durante la sesión del navegador.
 
 30. ¿Qué método se utiliza para detener la propagación de un evento en el DOM?
-    - A) `event.stopPropagation()`
+    - A) `event.stopPropagation()` <---
     - B) `event.preventDefault()`
     - C) `event.stop()`
     - D) `event.cancel()`
